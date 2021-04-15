@@ -1,3 +1,8 @@
-body{
-  background-color: pink;
+$primary_color:red;
+
+p,
+h1,
+h2,
+button{
+  color: $primary_color;
 }
